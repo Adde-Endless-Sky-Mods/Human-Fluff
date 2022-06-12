@@ -10,6 +10,11 @@ outfitter "human plugins"
 #	Shipyards
 #		-	-	-	-	-	-	-	-	-	-
 
+shipyard "human plugins"
+#		HF
+	"Colossus"
+#		Tr
+	"Flivver (Racing)"
 shipyard "Betelgeuse Advanced"
 #		HF
 	"Colossus"
