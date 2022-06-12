@@ -1,4 +1,12 @@
 #		-	-	-	-	-	-	-	-	-	-
+#	Outfitters
+#		-	-	-	-	-	-	-	-	-	-
+
+outfitter "human plugins"
+#		HH
+	"Knockout Gas"
+
+#		-	-	-	-	-	-	-	-	-	-
 #	Shipyards
 #		-	-	-	-	-	-	-	-	-	-
 
