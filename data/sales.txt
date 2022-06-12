@@ -2,6 +2,13 @@
 #	Shipyards
 #		-	-	-	-	-	-	-	-	-	-
 
+shipyard "Betelgeuse Advanced"
+#		HF
+	"Colossus"
+#		Tr
+	"Flivver (Racing)"
+shipyard "Betelgeuse Basics"
+	"Behemoth"
 shipyard "Southbound Advanced"
 #		Tr
 	"Flivver (Racing)"
