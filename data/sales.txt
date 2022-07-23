@@ -12,12 +12,12 @@ outfitter "human plugins"
 
 shipyard "human plugins"
 #		HF
-	"Colossus"
+	"Goliath"
 #		Tr
 	"Flivver (Racing)"
 shipyard "Betelgeuse Advanced"
 #		HF
-	"Colossus"
+	"Goliath"
 #		Tr
 	"Flivver (Racing)"
 shipyard "Betelgeuse Basics"

@@ -39,9 +39,9 @@ ship "Flivver" "Flivver (Racing)"
 #	Heavy Freighter
 #		-	-	-	-	-	-	-	-	-	-
 
-ship "Colossus"
-	sprite "ship/colossus"
-	thumbnail "thumbnail/colossus"
+ship "Goliath"
+	sprite "ship/goliath"
+	thumbnail "thumbnail/goliath"
 	attributes
 		category "Heavy Freighter"
 		"cost" 15900000
@@ -114,7 +114,7 @@ ship "Colossus"
 	explode "large explosion" 45
 	explode "huge explosion" 25
 	"final explode" "final explosion large"
-	description `It wasn't long after the release of the Behemoth that a successor was released, though not by Betelgeuse. It was only after some time that, in a high profile claim dispute the design of the Colossus was turned over to Betelgeuse Shipyards.`
+	description `It wasn't long after the release of the Behemoth that a successor was released, though not by Betelgeuse. It was only after some time that, in a high profile claim dispute the design of the Goliath was turned over to Betelgeuse Shipyards.`
 
 #		-	-	-	-	-	-	-	-	-	-
 #	Override
